@@ -1,0 +1,2 @@
+recursive-include hseling_api_predictability/templates *
+recursive-include hseling_api_predictability/static *
